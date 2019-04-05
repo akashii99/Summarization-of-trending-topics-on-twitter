@@ -7,4 +7,4 @@ LDA is used for topic detection on the tweets, extracting keywords for better sc
 NLP Techniques applied- Stemming, Lemmatization, Stop words removal, text document summarization, tf-idf weighing and similarity scores like cosine and Jaccard.
 
 ### For extracting tweets of a particular - Run tweetexport.py
-### For preprocessing of tweets and implementation of LDA  - lda_poetryday.ipynb
+### For preprocessing of tweets and implementation of LDA  - lda_mission.ipynb
